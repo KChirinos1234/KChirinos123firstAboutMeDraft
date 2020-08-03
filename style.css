@@ -1,0 +1,27 @@
+body {
+  background-image: url("backgroundImage.png");
+  opacity: 1;
+}
+
+
+h1 {
+  text-align: center;
+  color: gold;
+}
+
+ul {
+  list-style: circle;
+}
+
+button {
+  padding: 10 px 20 px;
+}
+
+button {
+  align-items: justify;
+}
+
+p[id="social"] {
+  opacity: 1;
+  text-align: justify;
+}
